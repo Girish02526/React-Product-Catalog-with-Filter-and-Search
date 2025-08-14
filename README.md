@@ -18,5 +18,3 @@ npm start
 - `src/components` – Contains all reusable components like ProductCard, Filter, etc.
 - `src/products.json` – Sample product data
 
-## 🔗 Live Demo
-(You can deploy this via GitHub Pages or Vercel)
